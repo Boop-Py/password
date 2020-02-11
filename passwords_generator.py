@@ -2,7 +2,6 @@ import secrets
 import string
 
 
-# TODO add a way of choosing how many letters/how many digits. Also add a way of asking if user wants another pw made.
 
 
 def make_password(char_no):
